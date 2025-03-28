@@ -8,6 +8,7 @@ First, run the development server:
 npm run dev  
 # and second terminal for database
 npx inngest-cli@latest dev
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
