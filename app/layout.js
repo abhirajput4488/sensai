@@ -31,7 +31,7 @@ export default function RootLayout({ children }) {
 
           <footer className="bg-muted/50 py-12">
            <div className="container mx-auto px-4 text-center text">
-              <p>Hi this is ai career ❤️❤️</p>
+              <p>@cc Copyright 2025</p>
             </div>
           </footer>
         </ThemeProvider>
